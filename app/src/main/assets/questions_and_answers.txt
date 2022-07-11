@@ -1,0 +1,61 @@
+20
+The imitation game is proposed as a test of whether computers can think.
+true
+0
+Computers can program themselves.
+true
+https://futurism.com/4-our-computers-are-learning-how-to-code-themselves#:~:text=DeepCoder%20is%20a%20machine%20learning,is%20what%20human%20coders%20do.
+In an instance method or a constructor, "this" is a reference to the current object.
+true
+https://www.tutorialspoint.com/can-we-return-this-keyword-from-a-method-in-java
+Garbage Collection is manual process.
+false
+https://www.ibm.com/docs/en/ztpf/1.1.0.15?topic=management-specifying-garbage-collection-policy
+The JRE deletes objects when it determines that they are no longer being used. This process is called Garbage Collection.
+true
+https://www.ibm.com/docs/en/ztpf/1.1.0.15?topic=management-specifying-garbage-collection-policy
+Constructor overloading is not possible in Java.
+false
+https://www.tutorialspoint.com/Constructor-overloading-in-Java#:~:text=Yes!,with%20different%20no%20of%20parameters.
+Reengineering is convert the code to model
+true
+https://www.geeksforgeeks.org/software-engineering-re-engineering/
+Variable name can begin with a letter, "$", or "_".
+true
+https://www.programiz.com/c-programming/c-variables-constants
+The interface is a class
+true
+https://www.iitk.ac.in/esc101/05Aug/tutorial/java/concepts/interface.html#:~:text=is%20a%20type%2C%20just%20as,class%20can%20implement%20multiple%20interfaces.
+IDE refers to integrated development environment
+true
+https://www.redhat.com/en/topics/middleware/what-is-ide
+HTTP refers to HyperText Transfer process
+false
+https://www.w3schools.com/whatis/whatis_http.asp
+It is generally accepted that one cannot have weak software processes and create high quality end products.
+true
+0
+The programs that run on a computer are referred to as hardware.
+false
+https://www.techtarget.com/searchapparchitecture/definition/software
+A computer can directly understand a high-level language.
+false
+https://www.educba.com/types-of-computer-language/
+Java was originally intended for use in intelligent consumer-electronic devices.
+true
+https://slideplayer.com/slide/7775172/
+The cd command changes directories.
+true
+https://en.wikipedia.org/wiki/Cd_(command)
+The brute force approach is one of the most widely used algorithmic programming solutions because it is such an efficient problem – solving method.
+false
+https://www.javatpoint.com/brute-force-approach#:~:text=A%20brute%20force%20approach%20is,satisfactory%20solution%20is%20not%20found.
+Programming defines the field of computer science.
+false
+https://www.britannica.com/science/computer-science#:~:text=Computer%20science%20is%20the%20study,hardware%20development%2C%20and%20artificial%20intelligence.
+Python is a “high level” programming language
+true
+https://en.wikipedia.org/wiki/Python_(programming_language)
+JavaScript is real programming language
+false
+https://www.crockford.com/javascript/javascript.html#:~:text=JavaScript%20was%20developed%20at%20Netscape,really%20a%20matter%20of%20specialization.

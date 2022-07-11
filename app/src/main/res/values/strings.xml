@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Knowledge Game</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string-array name="questions">
+        <item>Hello World is the first word you print in c++?</item>
+        <item>Choose Yes</item>
+        <item>Choose No</item>
+        <item>Choose Yes or No</item>
+        <item>Fuck Apple !!!</item>
+    </string-array>
+</resources>
